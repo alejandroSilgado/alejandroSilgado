@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Alejandro Silgado</h1>
 
 <p align="center">
-  <img src="https://imgur.com/RlA988l.png" alt="profile image" />
+  <img src="https://imgur.com/2QLqlN7.png" alt="profile image" />
 </p>
-
 ## About me
 
 - 🌱 I’m currently learning **Go | Django | Ruby | Ruby on Rails**
