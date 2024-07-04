@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://imgur.com/2QLqlN7.png" alt="profile image" />
 </p>
+
 ## About me
 
 - 🌱 I’m currently learning **Go | Django | Ruby | Ruby on Rails**
